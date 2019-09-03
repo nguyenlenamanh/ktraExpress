@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "username": "account1",
+      "password": "123456",
+      "status": "Đã đăng ký"
+    },
+    {
+      "username": "account2",
+      "password": "123456",
+      "status": "Chưa đăng ký"
+    },
+    {
+      "username": "account3",
+      "password": "123456",
+      "status": "Đã đăng ký"
+    },
+    {
+      "username": "account4",
+      "password": "123456",
+      "status": "Chưa đăng ký"
+    }
+  ]
+}
